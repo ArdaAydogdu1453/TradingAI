@@ -215,9 +215,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📞 Support
 
-- 📧 Email: advanced.ai.trader@email.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-stock-predictor/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/ai-stock-predictor/discussions)
+- 📧 Email: ardaydogdu008@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/ArdaAydogdu1453/TradingAI/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/ArdaAydogdu1453/TradingAI/discussions)
 
 ## 📄 License
 
