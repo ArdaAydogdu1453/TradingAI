@@ -47,7 +47,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-stock-predictor.git
+git clone https://github.com/ArdaAydogdu1453/TradingAI.git
 cd ai-stock-predictor
 
 # Install required packages
